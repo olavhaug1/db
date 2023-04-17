@@ -1,0 +1,12 @@
+{
+  "entries": [
+    {
+      "foodtype": "",
+      "modeTemperature": 0,
+      "currentTemperature": 0,
+      "isConnectedToPeripheral": false,
+      "isAlarmEnabled": true
+
+    }
+  ]
+}
